@@ -37,4 +37,4 @@ npm run dev
 
 ## Contact
 - Phone: 076 306 5220 / 070 151 8089
-- Location: Fit & Fun Complex, Uganda 
+- Location: Fit & Fun Complex, Uganda
